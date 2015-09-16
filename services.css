@@ -1,0 +1,94 @@
+body {
+            background: url("images/back3.jpg") no-repeat; 
+            background-size: 100% 100%;
+            min-height: 100%;
+			background-attachment :fixed ;
+        }
+
+.jumbotron pre
+	{
+		color : gold;
+		font-size:48px;
+		font-family: 'shift',serif;
+		position :absolute;
+		left :0px;
+		top:-30px;
+		font-style: italic;
+	}
+
+sup {
+    font-size: 50%;
+    }
+.jumbotron .container p
+	{
+		color:gold;
+		font-size:30px;
+		font-family:"Brush Script MT" cursive;
+		position: absolute;
+		left: 150px;
+		top:90px;
+		font-style:italic;
+	}
+.nav a	
+	{
+				color:ghostwhite;
+				font-size: 25px;
+				font-family:"papyrus" fantasy; 
+				font-weight: bold;
+				padding:14px 10px;
+				text-decoration:none;
+				float:right;
+	}
+.nav li
+	{
+		display:inline;
+	}
+.nav .container ul li a:hover
+	{
+		border-bottom:  2px dotted #ff0000;
+		border-bottom-style: outset;
+	}
+#bn 
+	{
+		color: tomato;
+		font-family:"papyrus" fantasy;
+		font-size:40px;
+		position:absolute;
+		left:950px;
+		top:100px;
+		text-decoration:none;
+		text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,0 0 0.2em #87F;
+	}
+#me
+	{
+		color:red;
+	}
+div h1
+	{
+		color: lawngreen;
+		font-family:"papyrus" fantasy;
+		text-align:center;
+		left:400px;
+		top:30px;
+		font-weight:bolder;
+	}
+ul#bac
+	{
+		text-align:center;
+		left:450px;
+		top:200px;
+		font-family:"papyrus" fantasy;
+		font-size:30px;
+		color:white;
+	}
+div.fac
+	{
+		width:500px; 
+		height:450px; 
+		background-color:black;
+		position:absolute;
+		left:420px;
+		top:130px;
+		opacity:0.7;
+		
+	}

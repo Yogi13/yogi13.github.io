@@ -1,0 +1,47 @@
+body {
+            background: url("images/back1.jpg") no-repeat; 
+            background-size: 100% 100%;
+            min-height: 100%;
+			background-attachment :fixed ;
+        }
+
+.jumbotron pre
+	{
+		color : gold;
+		font-size:48px;
+		font-family: 'shift',serif;
+		position :absolute;
+		left :0px;
+		top:-30px;
+		font-style: italic;
+	}
+.jumbotron a
+	{
+		color: silver;
+		font-family:"papyrus" fantasy; 
+		font-size: 50px;
+		font-weight:900;
+		text-decoration:none;
+		position: absolute;
+		left: 400px;
+		top: 520px;
+	}
+sup {
+    font-size: 50%;
+    }
+p
+	{
+		color:gold;
+		font-size:30px;
+		font-family:"Brush Script MT" cursive;
+		position: absolute;
+		left: 150px;
+		top:90px;
+		font-style:italic;
+	}
+a:hover
+	{
+		color:lightskyblue;
+	}
+		
+	
